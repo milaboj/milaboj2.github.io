@@ -1,1 +1,0 @@
-![](img/install-chrome.gif)
